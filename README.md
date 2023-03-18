@@ -4,7 +4,7 @@
 <!-- ===========================================       Header       ========================================================= -->
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Damir Aliyev <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35" height="35" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35" /></h1>
-<h3 align="center">Hey it's me Damir Aliyev<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" height="35" />. I am an iOS developer with great enthusiasm, with the desire to develop in this area. Always ready to look for ways for growth and success..</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" height="35" /> I am an iOS developer with great enthusiasm, with the desire to develop in this area. Always ready to look for ways for growth and success.</h3>
 
 <!-- ===========================================       About me       ========================================================= -->
 
