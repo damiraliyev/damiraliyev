@@ -40,7 +40,7 @@
 
 <!-- ===========================================       Stack       ========================================================= -->
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Stack:
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Skills:
 
 <p align="center">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/swift-%23ED8B00.svg?style=for-the-badge&logo=swift&logoColor=white">
