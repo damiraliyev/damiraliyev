@@ -118,8 +118,4 @@
    <a href="https://www.linkedin.com/in/damir-aliyev-a94815259/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="https://leetcode.com/Damir777/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
-
-<!-- ===========================================       Snake       ========================================================= -->
-
-<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
 <h3 align="center">Thank you so much for coming here :pray:</h3>
