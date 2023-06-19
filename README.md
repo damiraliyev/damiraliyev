@@ -50,10 +50,12 @@
    <img style="pointer-events: none;" src="https://img.shields.io/badge/CoreData-039BE5?style=for-the-badge&logo=CoreData&logoColor=FFCC2F">
    </br>
    <img style="pointer-events: none;" src="https://img.shields.io/badge/AutoLayout-0078D6?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/SnapKit-0169d0?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/Programmatic Interface-c600c7?style=for-the-badge&logoColor=white">
+    <img style="pointer-events: none;" src="https://img.shields.io/badge/Git-039BE5?style=for-the-badge&logoColor=white">
+     <img style="pointer-events: none;" src="https://img.shields.io/badge/GitFlow-fe9c1b?style=for-the-badge&logoColor=white">
+  </br>
    <img style="pointer-events: none;" src="https://img.shields.io/badge/Networking-00dae6?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Network-fe9c1b?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Custom Views-0169d0?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/Basic Unit tests-0e61ea?style=for-the-badge&logoColor=white">
    </br>
 </p> 
