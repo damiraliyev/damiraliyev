@@ -57,6 +57,7 @@
   </br>
    <img style="pointer-events: none;" src="https://img.shields.io/badge/Networking-00dae6?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/Basic Unit tests-0e61ea?style=for-the-badge&logoColor=white">
+    <img style="pointer-events: none;" src="https://img.shields.io/badge/Firebase-fe9c1b?style=for-the-badge&logoColor=white">
    </br>
 </p> 
 
