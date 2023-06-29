@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About ME 💬 :
 <details>
-   <summary>🧑 More about me</summary>
+   <summary>More about me</summary>
  
   
    ### - I'm 20 years old iOS developer from Kazakhstan.
